@@ -1,7 +1,8 @@
 
 # COMP 3504 Final - MRU Eats
 
-MRU Eats is an online food delivery service for MRU Students.
+MRU Eats is an online food delivery service 
+
 
 ## Preview
 
