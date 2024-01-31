@@ -19,12 +19,7 @@ MRU Eats is an online food delivery service
 ### Order History Page
 ![OrderHistory](https://github.com/chrisStepien/MRUEats/assets/31741153/53de7db6-94b1-4c8f-ab41-7ece4c4835a4)
 
-## Team Members
 
-- [Brandon](https://github.com/Bchan1999)
-- [Chris](https://github.com/Cstep212)
-- [Erika](https://github.com/erikarobles)
-- [Sidhant](https://github.com/SidhantKaushik)
 
 ## Run Locally
 
